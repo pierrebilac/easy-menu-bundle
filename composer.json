@@ -1,5 +1,5 @@
 {
-    "name": "agence-adeliom/easy-menu-bundle",
+    "name": "pierrebilac/easy-menu-bundle",
     "type": "symfony-bundle",
     "description": "A Symfony Menu bundle for EasyAdmin",
     "keywords": [
